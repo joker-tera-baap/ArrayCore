@@ -2,7 +2,7 @@
   <img src="./ArrayCore.png" alt="ArrayCore Logo">
 </p>
 <h1 align="center">
-  <b>• ArrayCore •</b>
+  <b>• MRJOKER •</b>
 </h1>
 
 # Features 
@@ -25,7 +25,7 @@
 > The easy way to host this bot, deploy to Heroku
 > If you Deploy on Heroku you can Use Upto 8 Multi Clients !
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/The-HellBot/ArrayCore/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/The-HellBot/joker-tera-baap/tree/main)
 
 </details>
 
