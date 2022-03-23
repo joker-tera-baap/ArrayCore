@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./ArrayCore.png" alt="ArrayCore Logo">
+  <img src="./MR_JOKER.png" alt="MR_JOKER Logo">
 </p>
 <h1 align="center">
-  <b>• MRJOKER •</b>
+  <b>• MR JOKER •</b>
 </h1>
 
 # Features 
